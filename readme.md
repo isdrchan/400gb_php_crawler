@@ -1,9 +1,11 @@
 # 400gb_php_crawler
-ÅÀÈ¡³ÇÍ¨ÍøÅÌ(400gb.com)·ÖÏíÎÄ¼şµÄÁ´½Ó£¬ÎÄ¼şÃûºÍÎÄ¼ş´óĞ¡µÈµÄphp½Å±¾
-> run·½·¨Îª³ÌĞòÈë¿Ú£¬´«ÈëÆğÊ¼ºÍÖÕÖ¹µÄfile id£¨·ÖÏíÁ´½Ó×îºóµÄÄÇ´®Êı×Ö£©¡£
-> ³ÌĞòÊä³öÎªtxtÎÄ¼ş
+
+çˆ¬å–åŸé€šç½‘ç›˜(400gb.com)åˆ†äº«æ–‡ä»¶çš„é“¾æ¥ï¼Œæ–‡ä»¶åå’Œæ–‡ä»¶å¤§å°ç­‰çš„phpè„šæœ¬
+
+> runæ–¹æ³•ä¸ºç¨‹åºå…¥å£ï¼Œä¼ å…¥èµ·å§‹å’Œç»ˆæ­¢çš„file idï¼ˆåˆ†äº«é“¾æ¥æœ€åçš„é‚£ä¸²æ•°å­—ï¼‰ã€‚ç¨‹åºè¾“å‡ºä¸ºtxtæ–‡ä»¶ã€‚
+
 ---
-##Êä³öÊ¾Àı
+##è¾“å‡ºç¤ºä¾‹
 ```
 {"url":"http://www.400gb.com/file/80000980","name":"Foo.Fighters-Sonic.Highways.2014.720p.HDTV.x264-BATV.mkv","size":"1.34 GB","path":["yyets3","Foo.Fighters-Sonic.Highways.720p.HDTV.x264-BATV"]}
 {"url":"http://www.400gb.com/file/80000981","name":"Foo.Fighters-Sonic.Highways.Part.3.720p.HDTV.x264-BATV.mkv","size":"1.31 GB","path":["yyets3","Foo.Fighters-Sonic.Highways.720p.HDTV.x264-BATV"]}
